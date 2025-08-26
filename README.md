@@ -15,8 +15,16 @@
   </a>
 </p>
 
----
 
+---
+## 🎞️ Project Records
+<p align="center">
+[팀 프로젝트 모음](https://www.notion.so/257fa7b81d2280bebb26f5df047b10c1?source=copy_link)
+</p>
+
+
+
+---
 ## 🖥️ Language
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
